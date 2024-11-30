@@ -67,4 +67,5 @@ Telemedicine and Remote Diagnostics
 <br><br>
 ![alt text](<![image](https://github.com/user-attachments/assets/70d77857-a411-427b-81fb-e23dc862c626)
 >)
-![alt text](<>)
+![alt text](<![image](https://github.com/user-attachments/assets/22af7313-0fff-467d-880f-951884a26eba)
+>)
