@@ -65,5 +65,6 @@ Telemedicine and Remote Diagnostics
 
 ## Outputs: 
 <br><br>
-![alt text](<input.png>)
-![alt text](<output.png>)
+![alt text](<![image](https://github.com/user-attachments/assets/70d77857-a411-427b-81fb-e23dc862c626)
+>)
+![alt text](<>)
